@@ -1,16 +1,25 @@
 ## Hi there 👋
-My name is Alfiah Zalfa 
-<!--
-**alfiahzalfa/alfiahzalfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Alfiah Zalfa  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and exploring **data, AI, and Python**  
+💡 Interested in turning ideas into simple projects  
+📚 Learning by doing and continuously improving  
+
+---
+
+### 🛠️ Tech Stack
+- Python  
+- SQL  
+- Excel  
+
+---
+
+### 📊 What I'm working on
+- Building small projects related to data and AI  
+- Improving problem-solving skills  
+
+---
+
+### ✨ About me
+A curious learner who enjoys exploring new things in tech and growing step by step.
