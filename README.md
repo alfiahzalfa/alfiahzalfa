@@ -3,7 +3,8 @@
 My name is Alfiah Zalfa  
 
 🌱 Currently learning and exploring **data, AI, and Python**  
-💡 Interested in turning ideas into simple projects  
+📊 Working with **public datasets** to build and improve my skills  
+💡 Interested in turning data into insights through simple projects
 📚 Learning by doing and continuously improving  
 
 ---
@@ -16,10 +17,11 @@ My name is Alfiah Zalfa
 ---
 
 ### 📊 What I'm working on
-- Building small projects related to data and AI  
+- Analyzing public datasets  
+- Building small data & AI projects  
 - Improving problem-solving skills  
 
 ---
 
 ### ✨ About me
-A curious learner who enjoys exploring new things in tech and growing step by step.
+A curious learner who enjoys exploring data and growing through hands-on experience.
